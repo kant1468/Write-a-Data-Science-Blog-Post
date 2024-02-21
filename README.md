@@ -33,7 +33,7 @@ Some library using in this project:
 - numpy
 - pandas
 - matplotlib
-- seaborn  
+- seaborn
 The result of this project I was post in [Medium](https://medium.com/@tridhfpt/unlocking-insights-a-deep-dive-into-airbnb-data-in-seattle-add0f1c988db).
 
 ### IV. Acknowledgments
